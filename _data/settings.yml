@@ -1,0 +1,104 @@
+#-------------------------------
+# General Site Settings:
+
+title: Alejandro Herrera
+description: Web Developer // Digital Strategist  // Copywriter
+email: alegooner78@icloud.com
+
+
+# NOTE: The Logo and the Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Clients, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+
+#--------------------------------
+# SEO Section:
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+    description: 'Provide a description for your website to make it visible to search engine.'
+    rel-author: 'https://plus.google.com/'
+    rel-publisher: 'https://plus.google.com/'
+
+
+#--------------------------------
+# About Section:
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+    **[Alejandro specializes in making and writing things for humans](http://about.me/alejandro.herrera)**.
+    Most of the things he writes are websites, web applications and the occasional nifty script,
+    but he also puts effort into taking [nice pictures](http://instagram.com/alegooner)
+    and writing awesome content for his friends and clients. When he's not coding, he can be found running
+    somewhere out in New York City, reading them comics or beating some kick-ass video game.
+
+
+skills:
+- {name: Communication, value: '8'}
+- {name: Organization, value: '9'}
+- {name: Learning, value: '10'}
+- {name: Teaching, value: '7'}
+- {name: Planning, value: '10'}
+- {name: Visual Design, value: '8'}
+- {name: UX Design, value: '7'}
+- {name: Programming, value: '7'}
+
+
+#---------------------------------
+# Work Section
+projects:
+- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+#----------------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-aaroni.jpg',
+    name: 'Scott Summers',
+    title: 'Director of Design, OnToText Ind.',
+    quote: '<p><strong>While we all felt that Alejandro was a great asset</strong> to our team -- and really worked hard to understand pur products from the point of view of the customer -- we also all agree he should shower more often.</p>',
+    logo: 'logo1.png'}
+- {avatar: 'face-atariboy.jpg',
+    name: 'Hank McCoy',
+    title: 'Eater of Salad, Antartica Int.',
+    quote: '<p><strong>Working with Alejandro was the hightlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+    logo: 'logo2.png'}
+- {avatar: 'face-jackiesaik.jpg',
+    name: 'Stacy Lang',
+    title: 'Social Media Girl, Platypus.net',
+    quote: '<p><strong>Yeah, I guess he is good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+    logo: 'logo3.png'}
+- {avatar: 'face-teleject.jpg',
+    name: 'Cleatus Cassidy',
+    title: 'VP of Helmut, Lorem Ipsum LLC.',
+    quote: '<p><strong>Back in the old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You do not see girls asking me about homework.</p>',
+    logo: 'logo4.png'}
+
+
+#-------------------------------------
+#Contact Section
+
+social:
+    - {icon: 'twitter', link: 'http://twitter.com/alegooner', network: 'Follow me on Twitter'}
+    - {icon: 'quote-left', link: 'http://about.me/alejandro.herrera', network: 'About Me'}
+    - {icon: 'github-square', link: 'https://github.com/AleGooner', network: 'Github'}
+    - {icon: 'instagram', link: 'http://instagram.com/alegooner', network: 'Instagram'}
+
+# Social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' / 'google-plus' / 'soundcloud' / 'vine' / 'instagram' / 'codepen'
+
+
+
+
+
